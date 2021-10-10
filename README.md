@@ -18,6 +18,9 @@ file, submission CSV file should have two columns: `id` and `label`. The `id`
 column should refer to a row in the "test.csv" file, and the `label` column 
 should refer to its label i.e. real (`0`), or fake (`1`).
 
+# Python code
+NLP_Fake_News_Classification.ipynb
+
 # Output :
 # Scope : This complete  Project is about fake news classifications through NLP 
   Language : Using Python and supporting packages and api, we will try to build this classification model 
